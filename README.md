@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/jaiveer03254338" target="blank"><img src="https://img.shields.io/twitter/follow/jaiveer03254338?logo=twitter&style=for-the-badge" alt="jaiveer03254338" /></a> </p>
 
-- 🌱 I’m currently learning **Html, CSS, JavaScript**
+- 🌱 I’m currently learning Web Development, Blockchain Technology
 
-- 📫 How to reach me **jaiveersagoo@gmail.com, 6284227513**
+- 📫 How to reach me **jsingh9_be24@thapar.edu, 6284227513**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
