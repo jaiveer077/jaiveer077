@@ -17,8 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/jaiveer03254338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiveer03254338" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaiveer-singh-930151264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaiveer-singh-930151264" height="30" width="40" /></a>
-<a href="https://instagram.com/jaiveer._.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaiveer._.07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cxj7carzjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cxj7carzjd" height="30" width="40" /></a>
+<a href="https://instagram.com/jaiveer._.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
 <a href="https://auth.geeksforgeeks.org/user/jaiveerddjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaiveerddjn" height="30" width="40" /></a>
 </p>
 
