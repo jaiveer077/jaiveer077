@@ -53,14 +53,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/jaiveer077/jaiveer077/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p>
@@ -78,3 +70,4 @@
 ---
 
 <p align="center">⚡ *Built with passion & purpose.*</p>
+
