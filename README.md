@@ -53,18 +53,10 @@
 
 ---
 
-### 📈 Contributions Graph
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiveer077&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🏢 GitHub Organizations
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiveer077&theme=radical" alt="Org and Details" />
+  <img src="https://github.com/jaiveer077/jaiveer077/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
