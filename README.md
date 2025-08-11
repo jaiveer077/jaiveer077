@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer;Loves+learning+new+tech;Building+offline-first+apps;C%2FC%2B%2B+Enthusiast" alt="Typing SVG" />
 </p>
 
-(https://komarev.com/ghpvc/?username=jaiveer077)
+![Profile Views](https://komarev.com/ghpvc/?username=jaiveer077)
 ---
 
 ### 🚀 Tech Stack
@@ -74,6 +74,7 @@
 ---
 
 <p align="center">⚡ *Built with passion & purpose.*</p>
+
 
 
 
