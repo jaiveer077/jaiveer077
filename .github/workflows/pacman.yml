@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate Pacman Graph
-        uses: maurodesouza/pacman-contribution-graph@main
+        uses: maurodesouza/pacman-contribution-graph@v2.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit & Push changes
